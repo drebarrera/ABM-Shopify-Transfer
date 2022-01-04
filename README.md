@@ -1,1 +1,2 @@
 # ABM-Shopify-Transfer
+The ABM Shopify Transfer was a project contribution I made to the store transfer of RejuveMD's DermPro store to Shopify. In partnership with Aesthetic Brand Marketing (ABM), I developed a Basic program used to scan a Shopify webpage and populate an csv file with the content of desired website content. The final product was used to efficiently transfer 55 pages of DermPro store content without any help from the DermPro website building company itself. ABM was grateful for my contribution, as it saved their team many hours of copy/pasting content.
